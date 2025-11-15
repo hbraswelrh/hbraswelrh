@@ -8,7 +8,6 @@ I'm active across several open-source projects and have a passion for explaining
 
 :medal_sports: 1st-time OpenSource SecurityCon Speaker @ KubeCon NA
 
-**Linkedin:** [Hannah Braswell](https://www.linkedin.com/in/hannah-braswell-414887221/) 
+**Linkedin:** [Hannah Braswell](https://www.linkedin.com/in/hannah-braswell-414887221/)
 
-[![Hannah's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=hbraswelrh&show_icons=true&commits_year=2025&theme=date_night#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Hannah's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=hbraswelrh&show_icons=true&commits_year=2025&theme=date_night#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Hannah's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=hbraswelrh&show_icons=true&commits_year=2025&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)

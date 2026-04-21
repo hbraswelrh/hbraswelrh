@@ -10,4 +10,4 @@ I'm active across several open-source projects and have a passion for explaining
 
 **Linkedin:** [Hannah Braswell](https://www.linkedin.com/in/hannah-braswell-414887221/)
 
-[![Hannah's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=hbraswelrh&show_icons=true&commits_year=2026&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![Hannah's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=hbraswelrh&show_icons=true&commits_year=2026&include_all_commits=true&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)

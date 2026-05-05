@@ -11,3 +11,5 @@ I'm active across several open-source projects and have a passion for explaining
 **Linkedin:** [Hannah Braswell](https://www.linkedin.com/in/hannah-braswell-414887221/)
 
 [![Hannah's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=hbraswelrh&show_icons=true&commits_year=2026&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+
+[![OpenSSF Contributor Card](https://gaganhr94.github.io/openssf-contributor-card/og/hbraswelrh.jpg)](https://gaganhr94.github.io/openssf-contributor-card/c/hbraswelrh.html)

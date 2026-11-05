@@ -4,9 +4,7 @@ Hi, it's nice to meet you :tada:! I'm Hannah.
 
 I'm active across several open-source projects and have a passion for explaining complex technical concepts from a storytelling perspective.
 
-:airplane: In my free time, I often travel throughout Europe and enjoy hiking, reading, and resto tours.
-
-:medal_sports: 1st-time OpenSource SecurityCon Speaker @ KubeCon NA
+:airplane: In my free time, I often travel throughout Europe and enjoy hiking, reading, and resto tours. I thrive when met with a challenge and consider myself a lifelong learner. 
 
 **Linkedin:** [Hannah Braswell](https://www.linkedin.com/in/hannah-braswell-414887221/)
 
